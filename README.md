@@ -1,7 +1,7 @@
 # Flower-LandingPage
 Flower Shop Landing Page (Light, Dark)
 
-📍Website Link:https://flower-landing-page-mariana.netlify.app/
+📍Live Preview:https://flower-landing-page-mariana.netlify.app/
 
 <h2>📍 assets Link on drive: </h2>
 https://drive.google.com/file/d/1aX5yEV5cR-b3o6NLZNHJrx8qzSO1uezi/view?usp=sharing
